@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.ckpt
+*.so
+*.pt
+
+.Python
+output/
+model/
+checkpoints_v2_0417.zip
+OpenVoice/

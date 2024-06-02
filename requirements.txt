@@ -1,0 +1,13 @@
+streamlit==1.35.0
+soundfile==0.12.1
+pygit2==1.15.0
+omegaconf~=2.3.0
+torch~=2.1.0
+tqdm
+einops
+vector_quantize_pytorch
+transformers~=4.41.1
+vocos
+streamlit-option-menu==0.3.12
+uvicorn
+fastapi
