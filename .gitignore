@@ -4,10 +4,9 @@ __pycache__/
 *$py.class
 *.ckpt
 *.so
-*.pt
 
 .Python
 output/
-model/
+/model/
 checkpoints_v2_0417.zip
 OpenVoice/
